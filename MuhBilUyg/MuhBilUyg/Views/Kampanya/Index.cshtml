@@ -1,0 +1,60 @@
+﻿@model IEnumerable<MuhBilUyg.Models.isci_analizdb.kampanyalar>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<div class="row">
+    <div class="col-12">
+       
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title mb-0">
+                    KAMPANYALAR
+                    <a href="../Kampanya/Kaydet">
+                        <button type="button" class="btn btn-dark btn-lg" style="margin-left:950px;">
+                            Kampanya Ekle
+                        </button>
+                    </a>
+                </h5>
+            </div>
+           
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th scope="col">Kampanya Adı</th>
+                        <th scope="col">Minimum Ücret</th>
+                        <th scope="col">Minimum Ürün Adedi</th>
+                        <th scope="col">Kampanya Geçerlilik Tarihi</th>
+                        <th scope="col"> </th>
+                        <th scope="col"> </th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach(var item in Model) {
+                    <tr>
+                        <th scope="row">@item.kampanya_adi</th>
+                        <td> @item.kampanya_minucret</td>
+                        <td>@item.kampanya_minadet</td>
+                        <td>@item.kampanya_tarih</td>
+                        <th>
+                            @*@Html.ActionLink("Güncelle", "KampanyaEdit", new { id = item.id }, new { @class = "btn btn-outline-success" })*@
+                            <a href="@Url.Action("KampanyaEdit","Kampanya")/@item.id">
+                                <button type="button" class="btn btn-outline-success"  >
+                                   Güncelle
+                                </button>
+                            </a>
+                        </th>
+                        <th>
+                            @Html.ActionLink("Sil", "Delete", new { id = item.id }, new { @class = "btn btn-outline-danger" })
+                        </th>
+                    </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+
+    </div>
+</div>
+

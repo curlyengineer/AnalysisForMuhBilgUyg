@@ -1,0 +1,60 @@
+﻿@using MuhBilUyg.Models.isci_analizdb
+@model kampanyalar
+
+@{
+    ViewBag.Title = "Kaydet";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="col-md-6">
+    <div class="card">
+        @using (Html.BeginForm("Kaydet", "Kampanya", FormMethod.Post))
+        {
+            @Html.AntiForgeryToken()
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+            @Html.HiddenFor(model => model.id)
+
+            <div class="card-body">
+                <h4 class="card-title">KAMPANYA BİLGİLERİ</h4>
+                <div class="form-group row">
+                    @Html.LabelFor(model => model.kampanya_adi, htmlAttributes: new { @class = "col-sm-3 text-end control-label col-form-label" })
+                    <div class="col-sm-9">
+                        @Html.EditorFor(model => model.kampanya_adi, new { htmlAttributes = new { @class = "form-control" } })
+                    </div>
+                </div>
+                <div class="form-group row">
+                    @Html.LabelFor(model => model.kampanya_minucret, htmlAttributes: new { @class = "col-sm-3 text-end control-label col-form-label" })
+
+                    <div class="col-sm-9">
+                        @Html.EditorFor(model => model.kampanya_minucret, new { htmlAttributes = new { @class = "form-control" } })
+
+                    </div>
+                </div>
+                <div class="form-group row">
+                    @Html.LabelFor(model => model.kampanya_minadet, htmlAttributes: new { @class = "col-sm-3 text-end control-label col-form-label" })
+
+                    <div class="col-sm-9">
+                        @Html.EditorFor(model => model.kampanya_minadet, new { htmlAttributes = new { @class = "form-control" } })
+
+                    </div>
+                </div>
+                <div class="form-group row">
+                    @Html.LabelFor(model => model.kampanya_tarih, htmlAttributes: new { @class = "col-sm-3 text-end control-label col-form-label" })
+
+                    <div class="col-sm-9">
+                        @Html.EditorFor(model => model.kampanya_tarih, new { htmlAttributes = new { @class = "form-control" } })
+
+                    </div>
+                </div>
+            </div>
+            <div class="border-top">
+                <div class="card-body">
+                    <button type="submit" class="btn btn-primary" style="margin-left:500px;" value="Save">
+                        KAYDET
+                    </button>
+                </div>
+            </div>
+        }
+    </div>
+</div>
+
+

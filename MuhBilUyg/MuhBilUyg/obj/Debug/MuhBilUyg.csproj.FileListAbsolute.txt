@@ -1,0 +1,188 @@
+C:\Users\Lenovo\Desktop\Müh. Bilgisayar Uyg\MuhBilUyg\MuhBilUyg\bin\MuhBilUyg.dll.config
+C:\Users\Lenovo\Desktop\Müh. Bilgisayar Uyg\MuhBilUyg\MuhBilUyg\bin\MuhBilUyg.dll
+C:\Users\Lenovo\Desktop\Müh. Bilgisayar Uyg\MuhBilUyg\MuhBilUyg\bin\MuhBilUyg.pdb
+C:\Users\Lenovo\Desktop\Müh. Bilgisayar Uyg\MuhBilUyg\MuhBilUyg\bin\roslyn\csc.exe
+C:\Users\Lenovo\Desktop\Müh. Bilgisayar Uyg\MuhBilUyg\MuhBilUyg\bin\roslyn\csc.exe.config
+C:\Users\Lenovo\Desktop\Müh. Bilgisayar Uyg\MuhBilUyg\MuhBilUyg\bin\roslyn\csc.rsp
+C:\Users\Lenovo\Desktop\Müh. Bilgisayar Uyg\MuhBilUyg\MuhBilUyg\bin\roslyn\csi.exe
+C:\Users\Lenovo\Desktop\Müh. Bilgisayar Uyg\MuhBilUyg\MuhBilUyg\bin\roslyn\csi.exe.config
+C:\Users\Lenovo\Desktop\Müh. Bilgisayar Uyg\MuhBilUyg\MuhBilUyg\bin\roslyn\csi.rsp
+C:\Users\Lenovo\Desktop\Müh. Bilgisayar Uyg\MuhBilUyg\MuhBilUyg\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lenovo\Desktop\Müh. Bilgisayar Uyg\MuhBilUyg\MuhBilUyg\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lenovo\Desktop\Müh. Bilgisayar Uyg\MuhBilUyg\MuhBilUyg\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lenovo\Desktop\Müh. Bilgisayar Uyg\MuhBilUyg\MuhBilUyg\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lenovo\Desktop\Müh. Bilgisayar Uyg\MuhBilUyg\MuhBilUyg\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lenovo\Desktop\Müh. Bilgisayar Uyg\MuhBilUyg\MuhBilUyg\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lenovo\Desktop\Müh. Bilgisayar Uyg\MuhBilUyg\MuhBilUyg\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lenovo\Desktop\Müh. Bilgisayar Uyg\MuhBilUyg\MuhBilUyg\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lenovo\Desktop\Müh. Bilgisayar Uyg\MuhBilUyg\MuhBilUyg\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lenovo\Desktop\Müh. Bilgisayar Uyg\MuhBilUyg\MuhBilUyg\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Lenovo\Desktop\Müh. Bilgisayar Uyg\MuhBilUyg\MuhBilUyg\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lenovo\Desktop\Müh. Bilgisayar Uyg\MuhBilUyg\MuhBilUyg\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Lenovo\Desktop\Müh. Bilgisayar Uyg\MuhBilUyg\MuhBilUyg\bin\roslyn\System.AppContext.dll
+C:\Users\Lenovo\Desktop\Müh. Bilgisayar Uyg\MuhBilUyg\MuhBilUyg\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lenovo\Desktop\Müh. Bilgisayar Uyg\MuhBilUyg\MuhBilUyg\bin\roslyn\System.Console.dll
+C:\Users\Lenovo\Desktop\Müh. Bilgisayar Uyg\MuhBilUyg\MuhBilUyg\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lenovo\Desktop\Müh. Bilgisayar Uyg\MuhBilUyg\MuhBilUyg\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Lenovo\Desktop\Müh. Bilgisayar Uyg\MuhBilUyg\MuhBilUyg\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lenovo\Desktop\Müh. Bilgisayar Uyg\MuhBilUyg\MuhBilUyg\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Lenovo\Desktop\Müh. Bilgisayar Uyg\MuhBilUyg\MuhBilUyg\bin\roslyn\System.IO.Compression.dll
+C:\Users\Lenovo\Desktop\Müh. Bilgisayar Uyg\MuhBilUyg\MuhBilUyg\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Lenovo\Desktop\Müh. Bilgisayar Uyg\MuhBilUyg\MuhBilUyg\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lenovo\Desktop\Müh. Bilgisayar Uyg\MuhBilUyg\MuhBilUyg\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lenovo\Desktop\Müh. Bilgisayar Uyg\MuhBilUyg\MuhBilUyg\bin\roslyn\System.Net.Http.dll
+C:\Users\Lenovo\Desktop\Müh. Bilgisayar Uyg\MuhBilUyg\MuhBilUyg\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Lenovo\Desktop\Müh. Bilgisayar Uyg\MuhBilUyg\MuhBilUyg\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lenovo\Desktop\Müh. Bilgisayar Uyg\MuhBilUyg\MuhBilUyg\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Lenovo\Desktop\Müh. Bilgisayar Uyg\MuhBilUyg\MuhBilUyg\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Lenovo\Desktop\Müh. Bilgisayar Uyg\MuhBilUyg\MuhBilUyg\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Lenovo\Desktop\Müh. Bilgisayar Uyg\MuhBilUyg\MuhBilUyg\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Lenovo\Desktop\Müh. Bilgisayar Uyg\MuhBilUyg\MuhBilUyg\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Lenovo\Desktop\Müh. Bilgisayar Uyg\MuhBilUyg\MuhBilUyg\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Lenovo\Desktop\Müh. Bilgisayar Uyg\MuhBilUyg\MuhBilUyg\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Lenovo\Desktop\Müh. Bilgisayar Uyg\MuhBilUyg\MuhBilUyg\bin\roslyn\System.ValueTuple.dll
+C:\Users\Lenovo\Desktop\Müh. Bilgisayar Uyg\MuhBilUyg\MuhBilUyg\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Lenovo\Desktop\Müh. Bilgisayar Uyg\MuhBilUyg\MuhBilUyg\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Lenovo\Desktop\Müh. Bilgisayar Uyg\MuhBilUyg\MuhBilUyg\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Lenovo\Desktop\Müh. Bilgisayar Uyg\MuhBilUyg\MuhBilUyg\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Lenovo\Desktop\Müh. Bilgisayar Uyg\MuhBilUyg\MuhBilUyg\bin\roslyn\vbc.exe
+C:\Users\Lenovo\Desktop\Müh. Bilgisayar Uyg\MuhBilUyg\MuhBilUyg\bin\roslyn\vbc.exe.config
+C:\Users\Lenovo\Desktop\Müh. Bilgisayar Uyg\MuhBilUyg\MuhBilUyg\bin\roslyn\vbc.rsp
+C:\Users\Lenovo\Desktop\Müh. Bilgisayar Uyg\MuhBilUyg\MuhBilUyg\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lenovo\Desktop\Müh. Bilgisayar Uyg\MuhBilUyg\MuhBilUyg\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lenovo\Desktop\Müh. Bilgisayar Uyg\MuhBilUyg\MuhBilUyg\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lenovo\Desktop\Müh. Bilgisayar Uyg\MuhBilUyg\MuhBilUyg\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lenovo\Desktop\Müh. Bilgisayar Uyg\MuhBilUyg\MuhBilUyg\bin\System.Web.Helpers.dll
+C:\Users\Lenovo\Desktop\Müh. Bilgisayar Uyg\MuhBilUyg\MuhBilUyg\bin\System.Web.Mvc.dll
+C:\Users\Lenovo\Desktop\Müh. Bilgisayar Uyg\MuhBilUyg\MuhBilUyg\bin\System.Web.Razor.dll
+C:\Users\Lenovo\Desktop\Müh. Bilgisayar Uyg\MuhBilUyg\MuhBilUyg\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Lenovo\Desktop\Müh. Bilgisayar Uyg\MuhBilUyg\MuhBilUyg\bin\System.Web.Webpages.dll
+C:\Users\Lenovo\Desktop\Müh. Bilgisayar Uyg\MuhBilUyg\MuhBilUyg\bin\System.Web.Webpages.Razor.dll
+C:\Users\Lenovo\Desktop\Müh. Bilgisayar Uyg\MuhBilUyg\MuhBilUyg\bin\System.Web.Razor.xml
+C:\Users\Lenovo\Desktop\Müh. Bilgisayar Uyg\MuhBilUyg\MuhBilUyg\bin\System.Web.Webpages.xml
+C:\Users\Lenovo\Desktop\Müh. Bilgisayar Uyg\MuhBilUyg\MuhBilUyg\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Lenovo\Desktop\Müh. Bilgisayar Uyg\MuhBilUyg\MuhBilUyg\bin\System.Web.Webpages.Razor.xml
+C:\Users\Lenovo\Desktop\Müh. Bilgisayar Uyg\MuhBilUyg\MuhBilUyg\bin\System.Web.Helpers.xml
+C:\Users\Lenovo\Desktop\Müh. Bilgisayar Uyg\MuhBilUyg\MuhBilUyg\bin\System.Web.Mvc.xml
+C:\Users\Lenovo\Desktop\Müh. Bilgisayar Uyg\MuhBilUyg\MuhBilUyg\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lenovo\Desktop\Müh. Bilgisayar Uyg\MuhBilUyg\MuhBilUyg\obj\Debug\MuhBilUyg.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Müh. Bilgisayar Uyg\MuhBilUyg\MuhBilUyg\obj\Debug\MuhBilUyg.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Müh. Bilgisayar Uyg\MuhBilUyg\MuhBilUyg\obj\Debug\MuhBilUyg.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\Müh. Bilgisayar Uyg\MuhBilUyg\MuhBilUyg\obj\Debug\MuhBilUyg.dll
+C:\Users\Lenovo\Desktop\Müh. Bilgisayar Uyg\MuhBilUyg\MuhBilUyg\obj\Debug\MuhBilUyg.pdb
+C:\Users\Lenovo\Desktop\Müh. Bilgisayar Uyg\MuhBilUyg\MuhBilUyg\bin\BouncyCastle.Crypto.dll
+C:\Users\Lenovo\Desktop\Müh. Bilgisayar Uyg\MuhBilUyg\MuhBilUyg\bin\Google.Protobuf.dll
+C:\Users\Lenovo\Desktop\Müh. Bilgisayar Uyg\MuhBilUyg\MuhBilUyg\bin\K4os.Compression.LZ4.dll
+C:\Users\Lenovo\Desktop\Müh. Bilgisayar Uyg\MuhBilUyg\MuhBilUyg\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\Lenovo\Desktop\Müh. Bilgisayar Uyg\MuhBilUyg\MuhBilUyg\bin\K4os.Hash.xxHash.dll
+C:\Users\Lenovo\Desktop\Müh. Bilgisayar Uyg\MuhBilUyg\MuhBilUyg\bin\MySql.Data.dll
+C:\Users\Lenovo\Desktop\Müh. Bilgisayar Uyg\MuhBilUyg\MuhBilUyg\bin\System.Buffers.dll
+C:\Users\Lenovo\Desktop\Müh. Bilgisayar Uyg\MuhBilUyg\MuhBilUyg\bin\System.Memory.dll
+C:\Users\Lenovo\Desktop\Müh. Bilgisayar Uyg\MuhBilUyg\MuhBilUyg\bin\System.Numerics.Vectors.dll
+C:\Users\Lenovo\Desktop\Müh. Bilgisayar Uyg\MuhBilUyg\MuhBilUyg\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lenovo\Desktop\Müh. Bilgisayar Uyg\MuhBilUyg\MuhBilUyg\bin\Ubiety.Dns.Core.dll
+C:\Users\Lenovo\Desktop\Müh. Bilgisayar Uyg\MuhBilUyg\MuhBilUyg\bin\ZstdNet.dll
+C:\Users\Lenovo\Desktop\Müh. Bilgisayar Uyg\MuhBilUyg\MuhBilUyg\bin\Google.Protobuf.pdb
+C:\Users\Lenovo\Desktop\Müh. Bilgisayar Uyg\MuhBilUyg\MuhBilUyg\bin\Google.Protobuf.xml
+C:\Users\Lenovo\Desktop\Müh. Bilgisayar Uyg\MuhBilUyg\MuhBilUyg\bin\K4os.Compression.LZ4.xml
+C:\Users\Lenovo\Desktop\Müh. Bilgisayar Uyg\MuhBilUyg\MuhBilUyg\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\Lenovo\Desktop\Müh. Bilgisayar Uyg\MuhBilUyg\MuhBilUyg\bin\K4os.Hash.xxHash.xml
+C:\Users\Lenovo\Desktop\Müh. Bilgisayar Uyg\MuhBilUyg\MuhBilUyg\bin\MySql.Data.xml
+C:\Users\Lenovo\Desktop\Müh. Bilgisayar Uyg\MuhBilUyg\MuhBilUyg\bin\System.Buffers.xml
+C:\Users\Lenovo\Desktop\Müh. Bilgisayar Uyg\MuhBilUyg\MuhBilUyg\bin\System.Memory.xml
+C:\Users\Lenovo\Desktop\Müh. Bilgisayar Uyg\MuhBilUyg\MuhBilUyg\bin\System.Numerics.Vectors.xml
+C:\Users\Lenovo\Desktop\Müh. Bilgisayar Uyg\MuhBilUyg\MuhBilUyg\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lenovo\Desktop\MühBilgisayarUyg\MuhBilUyg\MuhBilUyg\bin\MuhBilUyg.dll.config
+C:\Users\Lenovo\Desktop\MühBilgisayarUyg\MuhBilUyg\MuhBilUyg\bin\MuhBilUyg.dll
+C:\Users\Lenovo\Desktop\MühBilgisayarUyg\MuhBilUyg\MuhBilUyg\bin\MuhBilUyg.pdb
+C:\Users\Lenovo\Desktop\MühBilgisayarUyg\MuhBilUyg\MuhBilUyg\bin\roslyn\csc.exe
+C:\Users\Lenovo\Desktop\MühBilgisayarUyg\MuhBilUyg\MuhBilUyg\bin\roslyn\csc.exe.config
+C:\Users\Lenovo\Desktop\MühBilgisayarUyg\MuhBilUyg\MuhBilUyg\bin\roslyn\csc.rsp
+C:\Users\Lenovo\Desktop\MühBilgisayarUyg\MuhBilUyg\MuhBilUyg\bin\roslyn\csi.exe
+C:\Users\Lenovo\Desktop\MühBilgisayarUyg\MuhBilUyg\MuhBilUyg\bin\roslyn\csi.exe.config
+C:\Users\Lenovo\Desktop\MühBilgisayarUyg\MuhBilUyg\MuhBilUyg\bin\roslyn\csi.rsp
+C:\Users\Lenovo\Desktop\MühBilgisayarUyg\MuhBilUyg\MuhBilUyg\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lenovo\Desktop\MühBilgisayarUyg\MuhBilUyg\MuhBilUyg\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lenovo\Desktop\MühBilgisayarUyg\MuhBilUyg\MuhBilUyg\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lenovo\Desktop\MühBilgisayarUyg\MuhBilUyg\MuhBilUyg\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lenovo\Desktop\MühBilgisayarUyg\MuhBilUyg\MuhBilUyg\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lenovo\Desktop\MühBilgisayarUyg\MuhBilUyg\MuhBilUyg\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lenovo\Desktop\MühBilgisayarUyg\MuhBilUyg\MuhBilUyg\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lenovo\Desktop\MühBilgisayarUyg\MuhBilUyg\MuhBilUyg\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lenovo\Desktop\MühBilgisayarUyg\MuhBilUyg\MuhBilUyg\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lenovo\Desktop\MühBilgisayarUyg\MuhBilUyg\MuhBilUyg\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Lenovo\Desktop\MühBilgisayarUyg\MuhBilUyg\MuhBilUyg\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lenovo\Desktop\MühBilgisayarUyg\MuhBilUyg\MuhBilUyg\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Lenovo\Desktop\MühBilgisayarUyg\MuhBilUyg\MuhBilUyg\bin\roslyn\System.AppContext.dll
+C:\Users\Lenovo\Desktop\MühBilgisayarUyg\MuhBilUyg\MuhBilUyg\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lenovo\Desktop\MühBilgisayarUyg\MuhBilUyg\MuhBilUyg\bin\roslyn\System.Console.dll
+C:\Users\Lenovo\Desktop\MühBilgisayarUyg\MuhBilUyg\MuhBilUyg\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lenovo\Desktop\MühBilgisayarUyg\MuhBilUyg\MuhBilUyg\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Lenovo\Desktop\MühBilgisayarUyg\MuhBilUyg\MuhBilUyg\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lenovo\Desktop\MühBilgisayarUyg\MuhBilUyg\MuhBilUyg\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Lenovo\Desktop\MühBilgisayarUyg\MuhBilUyg\MuhBilUyg\bin\roslyn\System.IO.Compression.dll
+C:\Users\Lenovo\Desktop\MühBilgisayarUyg\MuhBilUyg\MuhBilUyg\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Lenovo\Desktop\MühBilgisayarUyg\MuhBilUyg\MuhBilUyg\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lenovo\Desktop\MühBilgisayarUyg\MuhBilUyg\MuhBilUyg\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lenovo\Desktop\MühBilgisayarUyg\MuhBilUyg\MuhBilUyg\bin\roslyn\System.Net.Http.dll
+C:\Users\Lenovo\Desktop\MühBilgisayarUyg\MuhBilUyg\MuhBilUyg\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Lenovo\Desktop\MühBilgisayarUyg\MuhBilUyg\MuhBilUyg\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lenovo\Desktop\MühBilgisayarUyg\MuhBilUyg\MuhBilUyg\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Lenovo\Desktop\MühBilgisayarUyg\MuhBilUyg\MuhBilUyg\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Lenovo\Desktop\MühBilgisayarUyg\MuhBilUyg\MuhBilUyg\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Lenovo\Desktop\MühBilgisayarUyg\MuhBilUyg\MuhBilUyg\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Lenovo\Desktop\MühBilgisayarUyg\MuhBilUyg\MuhBilUyg\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Lenovo\Desktop\MühBilgisayarUyg\MuhBilUyg\MuhBilUyg\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Lenovo\Desktop\MühBilgisayarUyg\MuhBilUyg\MuhBilUyg\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Lenovo\Desktop\MühBilgisayarUyg\MuhBilUyg\MuhBilUyg\bin\roslyn\System.ValueTuple.dll
+C:\Users\Lenovo\Desktop\MühBilgisayarUyg\MuhBilUyg\MuhBilUyg\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Lenovo\Desktop\MühBilgisayarUyg\MuhBilUyg\MuhBilUyg\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Lenovo\Desktop\MühBilgisayarUyg\MuhBilUyg\MuhBilUyg\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Lenovo\Desktop\MühBilgisayarUyg\MuhBilUyg\MuhBilUyg\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Lenovo\Desktop\MühBilgisayarUyg\MuhBilUyg\MuhBilUyg\bin\roslyn\vbc.exe
+C:\Users\Lenovo\Desktop\MühBilgisayarUyg\MuhBilUyg\MuhBilUyg\bin\roslyn\vbc.exe.config
+C:\Users\Lenovo\Desktop\MühBilgisayarUyg\MuhBilUyg\MuhBilUyg\bin\roslyn\vbc.rsp
+C:\Users\Lenovo\Desktop\MühBilgisayarUyg\MuhBilUyg\MuhBilUyg\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lenovo\Desktop\MühBilgisayarUyg\MuhBilUyg\MuhBilUyg\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lenovo\Desktop\MühBilgisayarUyg\MuhBilUyg\MuhBilUyg\bin\BouncyCastle.Crypto.dll
+C:\Users\Lenovo\Desktop\MühBilgisayarUyg\MuhBilUyg\MuhBilUyg\bin\Google.Protobuf.dll
+C:\Users\Lenovo\Desktop\MühBilgisayarUyg\MuhBilUyg\MuhBilUyg\bin\K4os.Compression.LZ4.dll
+C:\Users\Lenovo\Desktop\MühBilgisayarUyg\MuhBilUyg\MuhBilUyg\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\Lenovo\Desktop\MühBilgisayarUyg\MuhBilUyg\MuhBilUyg\bin\K4os.Hash.xxHash.dll
+C:\Users\Lenovo\Desktop\MühBilgisayarUyg\MuhBilUyg\MuhBilUyg\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lenovo\Desktop\MühBilgisayarUyg\MuhBilUyg\MuhBilUyg\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lenovo\Desktop\MühBilgisayarUyg\MuhBilUyg\MuhBilUyg\bin\MySql.Data.dll
+C:\Users\Lenovo\Desktop\MühBilgisayarUyg\MuhBilUyg\MuhBilUyg\bin\System.Buffers.dll
+C:\Users\Lenovo\Desktop\MühBilgisayarUyg\MuhBilUyg\MuhBilUyg\bin\System.Memory.dll
+C:\Users\Lenovo\Desktop\MühBilgisayarUyg\MuhBilUyg\MuhBilUyg\bin\System.Numerics.Vectors.dll
+C:\Users\Lenovo\Desktop\MühBilgisayarUyg\MuhBilUyg\MuhBilUyg\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lenovo\Desktop\MühBilgisayarUyg\MuhBilUyg\MuhBilUyg\bin\System.Web.Helpers.dll
+C:\Users\Lenovo\Desktop\MühBilgisayarUyg\MuhBilUyg\MuhBilUyg\bin\System.Web.Mvc.dll
+C:\Users\Lenovo\Desktop\MühBilgisayarUyg\MuhBilUyg\MuhBilUyg\bin\System.Web.Razor.dll
+C:\Users\Lenovo\Desktop\MühBilgisayarUyg\MuhBilUyg\MuhBilUyg\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Lenovo\Desktop\MühBilgisayarUyg\MuhBilUyg\MuhBilUyg\bin\System.Web.Webpages.dll
+C:\Users\Lenovo\Desktop\MühBilgisayarUyg\MuhBilUyg\MuhBilUyg\bin\System.Web.Webpages.Razor.dll
+C:\Users\Lenovo\Desktop\MühBilgisayarUyg\MuhBilUyg\MuhBilUyg\bin\Ubiety.Dns.Core.dll
+C:\Users\Lenovo\Desktop\MühBilgisayarUyg\MuhBilUyg\MuhBilUyg\bin\ZstdNet.dll
+C:\Users\Lenovo\Desktop\MühBilgisayarUyg\MuhBilUyg\MuhBilUyg\bin\Google.Protobuf.pdb
+C:\Users\Lenovo\Desktop\MühBilgisayarUyg\MuhBilUyg\MuhBilUyg\bin\Google.Protobuf.xml
+C:\Users\Lenovo\Desktop\MühBilgisayarUyg\MuhBilUyg\MuhBilUyg\bin\K4os.Compression.LZ4.xml
+C:\Users\Lenovo\Desktop\MühBilgisayarUyg\MuhBilUyg\MuhBilUyg\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\Lenovo\Desktop\MühBilgisayarUyg\MuhBilUyg\MuhBilUyg\bin\K4os.Hash.xxHash.xml
+C:\Users\Lenovo\Desktop\MühBilgisayarUyg\MuhBilUyg\MuhBilUyg\bin\MySql.Data.xml
+C:\Users\Lenovo\Desktop\MühBilgisayarUyg\MuhBilUyg\MuhBilUyg\bin\System.Buffers.xml
+C:\Users\Lenovo\Desktop\MühBilgisayarUyg\MuhBilUyg\MuhBilUyg\bin\System.Memory.xml
+C:\Users\Lenovo\Desktop\MühBilgisayarUyg\MuhBilUyg\MuhBilUyg\bin\System.Numerics.Vectors.xml
+C:\Users\Lenovo\Desktop\MühBilgisayarUyg\MuhBilUyg\MuhBilUyg\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lenovo\Desktop\MühBilgisayarUyg\MuhBilUyg\MuhBilUyg\bin\System.Web.Razor.xml
+C:\Users\Lenovo\Desktop\MühBilgisayarUyg\MuhBilUyg\MuhBilUyg\bin\System.Web.Webpages.xml
+C:\Users\Lenovo\Desktop\MühBilgisayarUyg\MuhBilUyg\MuhBilUyg\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Lenovo\Desktop\MühBilgisayarUyg\MuhBilUyg\MuhBilUyg\bin\System.Web.Webpages.Razor.xml
+C:\Users\Lenovo\Desktop\MühBilgisayarUyg\MuhBilUyg\MuhBilUyg\bin\System.Web.Helpers.xml
+C:\Users\Lenovo\Desktop\MühBilgisayarUyg\MuhBilUyg\MuhBilUyg\bin\System.Web.Mvc.xml
+C:\Users\Lenovo\Desktop\MühBilgisayarUyg\MuhBilUyg\MuhBilUyg\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lenovo\Desktop\MühBilgisayarUyg\MuhBilUyg\MuhBilUyg\obj\Debug\MuhBilUyg.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\MühBilgisayarUyg\MuhBilUyg\MuhBilUyg\obj\Debug\MuhBilUyg.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\MühBilgisayarUyg\MuhBilUyg\MuhBilUyg\obj\Debug\MuhBilUyg.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\MühBilgisayarUyg\MuhBilUyg\MuhBilUyg\obj\Debug\MuhBilUyg.dll
+C:\Users\Lenovo\Desktop\MühBilgisayarUyg\MuhBilUyg\MuhBilUyg\obj\Debug\MuhBilUyg.pdb

@@ -1,0 +1,37 @@
+﻿@model IEnumerable<MuhBilUyg.Models.isci_analizdb.kampanyalar>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="row">
+    <div class="col-12">
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title mb-0">KAMPANYALAR</h5>
+            </div>
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th scope="col">Kampanya Adı</th>
+                        <th scope="col">Minimum Ücret</th>
+                        <th scope="col">Minimum Ürün Adedi</th>
+                        <th scope="col">Kampanya Geçerlilik Tarihi</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <th scope="row">@item.kampanya_adi</th>
+                            <td> @item.kampanya_minucret</td>
+                            <td>@item.kampanya_minadet</td>
+                            <td>@item.kampanya_tarih</td>
+
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+
+    </div>
+</div>

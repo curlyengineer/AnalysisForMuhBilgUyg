@@ -1,0 +1,69 @@
+﻿@{
+    ViewBag.Title = "PrimIndex";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="col-md-6">
+    <div class="card">
+
+        @using (Html.BeginForm("PrimHesapla", "Hesaplama", FormMethod.Post))
+        {
+            @Html.AntiForgeryToken()
+            <div class="card-body">
+                <h4 class="card-title">PRİM ÖDEMESİ HESAPLAMA </h4>
+                <div class="form-group row">
+                    <label for="fname"
+                           class="col-sm-3 text-end control-label col-form-label">Ürün Adedi Ücreti: </label>
+                    <div class="col-sm-9">
+                        <input type="number" name="urun_adetucret" min="0" max="1000"
+                               class="form-control"
+                               id="urun_adetucret" />
+                    </div>
+                </div>
+                <div class="form-group row">
+                    <label for="lname"
+                           class="col-sm-3 text-end control-label col-form-label"> Minimum Ürün Adedi : </label>
+                    <div class="col-sm-9">
+                        <input type="number" name="min_adet" min="0" max="1000"
+                               class="form-control"
+                               id="min_adet" />
+                    </div>
+                </div>
+                <div class="form-group row">
+                    <label for="lname"
+                           class="col-sm-3 text-end control-label col-form-label">Saatlik Ücret : </label>
+                    <div class="col-sm-9">
+                        <input type="number" name="saat_ucret" min="0" max="1000"
+                               class="form-control"
+                               id="saat_ucret" />
+                    </div>
+
+                </div>
+                <div class="form-group row">
+                    <label for="lname"
+                           class="col-sm-3 text-end control-label col-form-label"> Ekstra Ücret :</label>
+                    <div class="col-sm-9">
+                        <input type="number" name="ekstra_ucret" min="0" max="1000"
+                               class="form-control"
+                               id="ekstra_ucret" />
+                    </div>
+                    <label style="opacity:70%;"> Yol,yemek vb. </label>
+
+                </div>
+            </div>
+            <div class="border-top">
+                <div class="card-body">
+                    <button type="submit" class="btn btn-primary" style="margin-left:500px;">
+                        HESAPLA
+                    </button>
+                </div>
+            </div>
+           
+                @TempData["testmsg"]
+           
+
+        }
+
+    </div>
+</div>
+
