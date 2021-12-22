@@ -15,9 +15,10 @@
                         <label for="fname"
                                class="col-sm-3 text-end control-label col-form-label" style="width:40% !important;">Saatlik Ücret: </label>
                         <div class="col-sm-9" style="width:60% !important;">
-                            <input type="text"
+                            <input type="number"
                                    class="form-control"
-                                   id="sabit_saatlik_ucret" style="width:60% !important;" />
+                                   id="sabit_saatlik_ucret" style="width:60% !important;"
+                                   name="ssaatlik_ucret" />
                         </div>
                     </div>
                     <br />
@@ -25,9 +26,10 @@
                         <label for="lname"
                                class="col-sm-3 text-end control-label col-form-label" style="width:40% !important;"> Çalışılan Saat : </label>
                         <div class="col-sm-9" style="width:60% !important;">
-                            <input type="text"
+                            <input type="number"
                                    class="form-control"
-                                   id="sabit_calisilan_saat" style="width:60% !important;" />
+                                   id="sabit_calisilan_saat" style="width:60% !important;"
+                                   name="scalisilan_saat" />
                         </div>
                     </div>
                     <br />
@@ -35,9 +37,10 @@
                         <label for="lname"
                                class="col-sm-3 text-end control-label col-form-label" style="width:40% !important;"> Ekstra Ücret :</label>
                         <div class="col-sm-9" style="width:60% !important;">
-                            <input type="text"
+                            <input type="number"
                                    class="form-control"
-                                   id="sabit_ekstra_ucret" style="width:60% !important;" />
+                                   id="sabit_ekstra_ucret" style="width:60% !important;"
+                                   name="sextra_ucret" />
                         </div>
                         <br />
                         <label style="opacity:70%;margin-left:180px;"> (Yol,yemek vb.) </label>
@@ -45,122 +48,142 @@
                     </div>
                 </div>
 
-            </form>
+
         </div>
     </div>
     <div class="col-md-6" style="width:33% !important;">
         <div class="card">
-            <form class="form-horizontal">
-                <div class="card-body">
-                    <h4 class="card-title">PRİM ÜCRETİ HESAPLAMA </h4>
+            <div class="card-body">
+                <h4 class="card-title">PRİM ÜCRETİ HESAPLAMA </h4>
 
-                    <div class="form-group row">
-                        <label for="lname"
-                               class="col-sm-3 text-end control-label col-form-label" style="width:30% !important;">Saatlik Ücret : </label>
-                        <div class="col-sm-9" style="width:70% !important;">
-                            <input type="password"
-                                   class="form-control"
-                                   id="prim_saatlik_ucret" style="width:70% !important;" />
-                        </div>
+                <div class="form-group row">
+                    <label for="lname"
+                           class="col-sm-3 text-end control-label col-form-label" style="width:30% !important;">Saatlik Ücret : </label>
+                    <div class="col-sm-9" style="width:70% !important;">
+                        <input type="number"
+                               class="form-control"
+                               id="prim_saatlik_ucret" style="width:70% !important;"
+                               name="psaatlik_ucret" />
+                    </div>
 
-                    </div>
-                    <div class="form-group row">
-                        <label for="lname"
-                               class="col-sm-3 text-end control-label col-form-label" style="width:30% !important;"> Çalışılan Saat :</label>
-                        <div class="col-sm-9" style="width:70% !important;">
-                            <input type="text"
-                                   class="form-control"
-                                   id="prim_calisilan_saat" style="width:70% !important;" />
-                        </div>
-                    </div>
-                    <div class="form-group row">
-                        <label for="lname"
-                               class="col-sm-3 text-end control-label col-form-label" style="width:30% !important;"> Bir Adet Ürün İçin Ücret :</label>
-                        <div class="col-sm-9" style="width:70% !important;">
-                            <input type="text"
-                                   class="form-control"
-                                   id="prim_belirlenen_fiyat" style="width:70% !important;" />
-                        </div>
-                    </div>
-                    <div class="form-group row">
-                        <label for="lname"
-                               class="col-sm-3 text-end control-label col-form-label" style="width:30% !important;"> Ekstra Ücret :</label>
-                        <div class="col-sm-9" style="width:70% !important;">
-                            <input type="text"
-                                   class="form-control"
-                                   id="prim_ekstra_ucret" style="width:70% !important;" />
-                        </div>
-                        <label style="opacity: 70%; margin-left:130px;">( Yol,yemek vb. )</label>
-
+                </div>
+                <div class="form-group row">
+                    <label for="lname"
+                           class="col-sm-3 text-end control-label col-form-label" style="width:30% !important;"> Çalışılan Saat :</label>
+                    <div class="col-sm-9" style="width:70% !important;">
+                        <input type="number" name="pcalisilan_saat"
+                               class="form-control"
+                               id="prim_calisilan_saat" style="width:70% !important;" />
                     </div>
                 </div>
-            </form>
+                <div class="form-group row">
+                    <label for="lname"
+                           class="col-sm-3 text-end control-label col-form-label" style="width:30% !important;"> Bir Adet Ürün İçin Ücret :</label>
+                    <div class="col-sm-9" style="width:70% !important;">
+                        <input type="number" name="purun_ucret"
+                               class="form-control"
+                               id="prim_belirlenen_fiyat" style="width:70% !important;" />
+                    </div>
+                </div>
+                <div class="form-group row">
+                    <label for="lname"
+                           class="col-sm-3 text-end control-label col-form-label" style="width:30% !important;"> Toplam Ürün Adedi :</label>
+                    <div class="col-sm-9" style="width:70% !important;">
+                        <input type="number" name="purun_adet"
+                               class="form-control"
+                               id="prim_belirlenen_fiyat" style="width:70% !important;" />
+                    </div>
+                </div>
+                <div class="form-group row">
+                    <label for="lname"
+                           class="col-sm-3 text-end control-label col-form-label" style="width:30% !important;"> Ekstra Ücret :</label>
+                    <div class="col-sm-9" style="width:70% !important;">
+                        <input type="number" name="pextra_ucret"
+                               class="form-control"
+                               id="prim_ekstra_ucret" style="width:70% !important;" />
+                    </div>
+                    <label style="opacity: 70%; margin-left:130px;">( Yol,yemek vb. )</label>
+
+                </div>
+            </div>
         </div>
     </div>
     <div class="col-md-6" style="width:33% !important;">
         <div class="card">
-            <form class="form-horizontal">
-                <div class="card-body">
-                    <h4 class="card-title">AKORT ÜCRETİ HESAPLAMA </h4>
+            <div class="card-body">
+                <h4 class="card-title">AKORT ÜCRETİ HESAPLAMA </h4>
 
-                    <div class="form-group row">
-                        <label for="lname"
-                               class="col-sm-3 text-end control-label col-form-label" style="width:30% !important;">Ürün Fiyatı : </label>
-                        <div class="col-sm-9" style="width:70% !important;">
-                            <input type="password"
-                                   class="form-control"
-                                   id="akort_urun_fiyat" style="width:70% !important;" />
-                        </div>
-
-                    </div>
-                    <div class="form-group row">
-                        <label for="lname"
-                               class="col-sm-3 text-end control-label col-form-label" style="width:30% !important;"> Ürün Satış Alt Sınırı :</label>
-                        <div class="col-sm-9" style="width:70% !important;">
-                            <input type="text"
-                                   class="form-control"
-                                   id="akort_urun_altsinir" style="width:70% !important;" />
-                            <label style="opacity:70%;"> (Kaçıncı üründen sonra fiyat artacak )</label>
-                        </div>
-
-                    </div>
-                    <div class="form-group row">
-                        <label for="lname"
-                               class="col-sm-3 text-end control-label col-form-label" style="width:30% !important;"> Katlanan Fiyat :</label>
-                        <div class="col-sm-9" style="width:70% !important;">
-                            <input type="text"
-                                   class="form-control"
-                                   id="akort_katlanan_fiyat" style="width:70% !important;" />
-                            <label style="opacity: 70%;"> (Ücreti katlanacak her bir ürünün fiyatı)  </label>
-                        </div>
-                    </div>
-                    <div class="form-group row">
-                        <label for="lname"
-                               class="col-sm-3 text-end control-label col-form-label" style="width:30% !important;"> Ekstra Ücret :</label>
-                        <div class="col-sm-9" style="width:70% !important;">
-                            <input type="text"
-                                   class="form-control"
-                                   id="akort_ekstra_ucret" style="width:70% !important;" />
-                            <label style="opacity: 70%;"> (Yol,yemek vb.) </label>
-
-                        </div>
-
+                <div class="form-group row">
+                    <label for="lname"
+                           class="col-sm-3 text-end control-label col-form-label" style="width:30% !important;">Ürün Fiyatı : </label>
+                    <div class="col-sm-9" style="width:70% !important;">
+                        <input type="number" name="aurun_fiyat"
+                               class="form-control"
+                               id="akort_urun_fiyat" style="width:70% !important;" />
                     </div>
 
-                    <div class="border-top">
-                        <div class="card-body">
-                            <button type="submit" class="btn btn-primary" style="margin-left:200px;" value="Save">
-                                HESAPLA
-                            </button>
-                        </div>
+                </div>
+                <div class="form-group row">
+                    <label for="lname"
+                           class="col-sm-3 text-end control-label col-form-label" style="width:30% !important;"> Ürün Satış Alt Sınırı :</label>
+                    <div class="col-sm-9" style="width:70% !important;">
+                        <input type="number" name="aurun_min"
+                               class="form-control"
+                               id="akort_urun_altsinir" style="width:70% !important;" />
+                        <label style="opacity:70%;"> (Kaçıncı üründen sonra fiyat artacak )</label>
+                    </div>
+
+                </div>
+                <div class="form-group row">
+                    <label for="lname"
+                           class="col-sm-3 text-end control-label col-form-label" style="width:30% !important;"> Katlanan Fiyat :</label>
+                    <div class="col-sm-9" style="width:70% !important;">
+                        <input type="number" name="akatlanan_fiyat"
+                               class="form-control"
+                               id="akort_katlanan_fiyat" style="width:70% !important;" />
+                        <label style="opacity: 70%;"> (Ücreti katlanacak her bir ürünün fiyatı)  </label>
                     </div>
                 </div>
+                <div class="form-group row">
+                    <label for="lname"
+                           class="col-sm-3 text-end control-label col-form-label" style="width:30% !important;"> Toplam Ürün Adedi :</label>
+                    <div class="col-sm-9" style="width:70% !important;">
+                        <input type="number" name="atoplam_urun"
+                               class="form-control"
+                               id="akort_katlanan_fiyat" style="width:70% !important;" />
+                        <label style="opacity: 70%;"> (Ücreti katlanacak her bir ürünün fiyatı)  </label>
+                    </div>
+                </div>
+                <div class="form-group row">
+                    <label for="lname"
+                           class="col-sm-3 text-end control-label col-form-label" style="width:30% !important;"> Ekstra Ücret :</label>
+                    <div class="col-sm-9" style="width:70% !important;">
+                        <input type="number" name="aextra_ucret"
+                               class="form-control"
+                               id="akort_ekstra_ucret" style="width:70% !important;" />
+                        <label style="opacity: 70%;"> (Yol,yemek vb.) </label>
+
+                    </div>
+
+                </div>
+
+                <div class="border-top">
+                    <div class="card-body">
+                        <button type="submit" class="btn btn-primary" style="margin-left:200px;" value="Save">
+                            HESAPLA
+                        </button>
+                    </div>
+                </div>
+            </div>
 
             </form>
         </div>
+
     </div>
 </div>
-
+@TempData["sabitucret"]
+@TempData["primucret"]
+@TempData["akortucret"]
 <div class="row">
     <div class="col-md-12">
         <div class="card">

@@ -15,20 +15,26 @@ namespace MuhBilUyg.Controllers
         // GET: Home
         public ActionResult Index()
         {
-            string query = "Select * from kampanyalar  Order By kampanya_tarih DESC";
+            string query = "Select * from  hesaplamalar Order By id DESC";
             baglanti.Open();
-            var kampanya = new List<kampanyalar>();
+            var kampanya = new List<hesaplamalar>();
             MySqlCommand cmd = new MySqlCommand(query, baglanti);
             MySqlDataReader rd = cmd.ExecuteReader();
             while (rd.Read())
             {
-                kampanya.Add(new kampanyalar()
+                kampanya.Add(new hesaplamalar()
                 {
                     id = Convert.ToInt32(rd["id"]),
-                    kampanya_adi = (rd["kampanya_adi"]).ToString(),
-                    kampanya_minadet = Convert.ToInt32(rd["kampanya_minadet"]),
-                    kampanya_minucret = Convert.ToInt32(rd["kampanya_minucret"]),
-                    kampanya_tarih = (rd["kampanya_tarih"]).ToString()
+                    hesaplama_tur = (rd["hesaplama_tur"]).ToString(),
+                    urun_fiyat = Convert.ToInt32(rd["urun_fiyat"]),
+                    min_adet = Convert.ToInt32(rd["min_adet"]),
+                    saatlik_ucret = Convert.ToInt32(rd["saatlik_ucret"]),
+                    katlanan_fiyat = Convert.ToInt32(rd["katlanan_fiyat"]),
+                    toplam_urun = Convert.ToInt32(rd["toplam_urun"]),
+                    ekstra_ucret = Convert.ToInt32(rd["ekstra_ucret"]),
+                    odeme = Convert.ToInt32(rd["odeme"]),
+                    kampanya = (rd["kampanya"]).ToString(),
+                    tarih = (rd["tarih"]).ToString()
                 });
             }
             rd.Close();

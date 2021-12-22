@@ -1,4 +1,4 @@
-﻿@model IEnumerable<MuhBilUyg.Models.isci_analizdb.kampanyalar>
+﻿@model IEnumerable<MuhBilUyg.Models.isci_analizdb.hesaplamalar>
 @{
     ViewBag.Title = "Index";
     Layout = "~/Views/Shared/_Layout.cshtml";
@@ -7,27 +7,40 @@
     <div class="col-12">
         <div class="card">
             <div class="card-body">
-                <h5 class="card-title mb-0">KAMPANYALAR</h5>
+                <h5 class="card-title mb-0">SON YAPILAN HESAPLAMALAR</h5>
             </div>
             <table class="table">
                 <thead>
                     <tr>
-                        <th scope="col">Kampanya Adı</th>
-                        <th scope="col">Minimum Ücret</th>
+                        <th scope="col">Hesaplama Türü</th>
+                        <th scope="col">Ürün Adet Fiyatı</th>
                         <th scope="col">Minimum Ürün Adedi</th>
-                        <th scope="col">Kampanya Geçerlilik Tarihi</th>
+                        <th scope="col">Saatlik Ücret</th>
+                        <th scope="col">Katlanan Fiyat</th>
+                        <th scope="col">Toplam Ürün</th>
+                        <th scope="col">Ekstra Ücret</th>
+                        <th scope="col">Ödenecek Tutar</th>
+                        <th scope="col">Kazanılan Kampanya</th>
+                        <th scope="col">Hesaplama Tarihi</th>
+
                     </tr>
                 </thead>
                 <tbody>
                     @foreach (var item in Model)
                     {
-                        <tr>
-                            <th scope="row">@item.kampanya_adi</th>
-                            <td> @item.kampanya_minucret</td>
-                            <td>@item.kampanya_minadet</td>
-                            <td>@item.kampanya_tarih</td>
+                    <tr>
+                        <th scope="row">@item.hesaplama_tur</th>
+                        <td> @item.urun_fiyat</td>
+                        <td>@item.min_adet</td>
+                        <td>@item.saatlik_ucret</td>
+                        <td>@item.katlanan_fiyat</td>
+                        <td>@item.toplam_urun</td>
+                        <td>@item.ekstra_ucret</td>
+                        <td>@item.odeme</td>
+                        <td>@item.kampanya</td>
+                        <td>@item.tarih</td>
 
-                        </tr>
+                    </tr>
                     }
                 </tbody>
             </table>
