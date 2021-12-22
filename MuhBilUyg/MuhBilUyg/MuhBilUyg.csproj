@@ -944,6 +944,7 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Models\isci_analizdb\hesaplamalar.cs" />
     <Compile Include="Models\isci_analizdb\kampanyalar.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
