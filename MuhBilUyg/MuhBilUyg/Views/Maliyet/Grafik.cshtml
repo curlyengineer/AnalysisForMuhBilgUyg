@@ -1,0 +1,67 @@
+﻿@model IEnumerable<MuhBilUyg.Models.isci_analizdb.maliyet>
+@{
+    ViewBag.Title = "Grafik";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<div class="row">
+    <div class="col-md-12">
+        <div class="card">
+            @foreach (var item in Model)
+            {
+            <div>
+                <canvas id="myChart"></canvas>
+            </div>
+            <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+            <script>
+                const labels = [
+                    '@item.prim_urun_ucreti',
+                    '@item.akort_urun_fiyat',
+                    '@item.akort_artan_fiyat',
+
+                ];
+
+                const data = {
+                    labels: labels,
+                    datasets: [{
+                        label: 'Sabit Ücret',
+                        backgroundColor: 'rgb(255, 99, 132)',
+                        borderColor: 'rgb(255, 99, 132)',
+                        data: [@item.sabit_ucret, @item.sabit_ucret],
+                    },
+                    {
+                        label: 'Prim Ücreti',
+                        backgroundColor: 'rgb(255, 99, 255)',
+                        borderColor: 'rgb(255, 199, 232)',
+                        data: [@item.prim_urun_adet,@item.prim_ucret],
+                    },
+
+                    {
+                        label: 'Akort Ücreti',
+                        backgroundColor: 'rgb(255, 99, 255)',
+                        borderColor: 'rgb(55, 99, 252)',
+                        data: [0,@item.akort_min_urun,@item.akort_toplam_urun],
+                    }]
+                };
+
+                const config = {
+                    type: 'line',
+                    data: data,
+                    options: {}
+
+                };
+
+            </script>
+            <script>
+                const myChart = new Chart(
+                    document.getElementById('myChart'),
+                    config
+                );
+            </script>
+
+            }
+        </div>
+    </div>
+</div>
+

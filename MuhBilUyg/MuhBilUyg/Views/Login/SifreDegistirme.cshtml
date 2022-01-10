@@ -1,7 +1,7 @@
 ﻿@using MuhBilUyg.Models.isci_analizdb
 @model login
 @{
-    ViewBag.Title = "Index";
+    ViewBag.Title = "SifreDegistirme";
     Layout = "~/Views/Shared/_LoginLayout.cshtml";
 }
 
@@ -11,7 +11,7 @@
             <span class="login100-form-title p-b-41">
                 Account Login
             </span>
-            @using (Html.BeginForm("Index", "Login", FormMethod.Post))
+            @using (Html.BeginForm("SifreDegistirme", "Login", FormMethod.Post))
             {
 
 
@@ -20,28 +20,22 @@
             <span class="focus-input100" data-placeholder="&#xe82a;"></span>
         </div>
 
-                <div class="wrap-input100 validate-input" data-validate="Enter password">
-                    <input class="input100" type="password" name="password" placeholder="Password">
-                    <span class="focus-input100" data-placeholder="&#xe80f;"></span>
-                </div>
+        <div class="wrap-input100 validate-input" data-validate="Enter password">
+            @Html.EditorFor(model => model.login_password, new { htmlAttributes = new { @class = "input100" } })
+            <span class="focus-input100" data-placeholder="&#xe80f;"></span>
+        </div>
 
                 <div class="container-login100-form-btn m-t-32">
                     <button class="login100-form-btn" value="Save" type="submit">
-                        Login
+                        KAYDET
                     </button>
                 </div>
 
 
             }
-            <div class="container-login100-form-btn m-t-32">
-                <a href="~/Login/SifreDegistirme">
-                    <button class="login100-form-btn" value="Save" type="submit">
-                        Şifreni mi unuttun ?
-                    </button>
-                </a>
-            </div>
         </div>
     </div>
 </div>
+
 
 

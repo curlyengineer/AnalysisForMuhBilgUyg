@@ -6,7 +6,7 @@ using System.Web;
 
 namespace MuhBilUyg.Models.isci_analizdb
 {
-    public class kampanyalar
+    public class kampanya
     {
         public int id { get; set; }
         [DisplayName("Kampanya Adı")]
